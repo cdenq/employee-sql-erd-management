@@ -7,7 +7,7 @@
 - SQL
 - QuickDBD.com
 
-## Technical Techniques
+## Technical Skills
 - Interpreting raw data
 - Creating table structures to match imports
 - Data filtering, joining, and subqueries
