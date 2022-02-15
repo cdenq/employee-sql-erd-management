@@ -1,7 +1,7 @@
-# sql-challenge
+# employee-sql-erd-management
 ## About EmployeeSQL
 
-`EmployeeSQL` is a beginner's SQL endeavor that interprets raw .csv files into an ERD, creates and imports the table structures for those files, and then performs basic queries.
+`EmployeeSQL` is a SQL challenge that interprets raw .csv files into an ERD, creates and imports the table structures for those files, and then performs queries on newly formatted tables within SQL.
 
 ## Built with
 - SQL
